@@ -7,7 +7,8 @@ https://microsoft-academy.databricks.com/learn
 
 https://customer-academy.databricks.com/learn/courses/3125/databricks-get-started-days
 https://customer-academy.databricks.com/learn/courses/2469/get-started-with-databricks-for-data-engineering
-
+- Databricks
+  - [how-to-learn-databricks](https://www.datacamp.com/blog/how-to-learn-databricks)
 - Databricks Get Started
   - [Databricks Get Started](https://microsoft-academy.databricks.com/learn/courses/3125/databricks-get-started-days)
   - [Get Started with Databricks for Data Engineers](https://microsoft-academy.databricks.com/learn/courses/2469/get-started-with-databricks-for-data-engineering)
@@ -24,11 +25,11 @@ Remarks
    2. Data Engineering
    3. Machine Learning Practitioner
 
-- DataCamp.com
+- [DataCamp.com](https://www.datacamp.com/)
   - Career Tracks
-  - Data Analyst in Python
+  - [Data Analyst in Python](https://www.datacamp.com/tracks/data-analyst-with-python)
   - Data Analyst in Tableau
-  - Data Engineering in Python
+  - [Data Engineering in Python](https://www.datacamp.com/tracks/data-engineer-in-python)
   - Data Scientist in Python
   - Machine Learning Engineer
   - Associate AI Engineer for Data Scientists

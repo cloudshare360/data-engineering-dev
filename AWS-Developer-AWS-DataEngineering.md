@@ -52,3 +52,43 @@ Here’s a structured **table format** comparison of **AWS Developer Services vs
 - **Data Engineers** → Work on ETL, data lakes, analytics, ML pipelines.  
 
 Would you like a **project-based roadmap** for hands-on practice? 🚀
+
+Here’s a structured table with **official AWS courses & hands-on resources** for each service in both Developer and Data Engineering tracks:  
+
+---
+
+### **AWS Developer & Data Engineering Courses (Free & Paid)**  
+
+| **Service**               | **Developer Track (Courses/Labs)**                                                                 | **Data Engineering Track (Courses/Labs)**                                                                 |
+|---------------------------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| **IAM**                   | [AWS IAM Basics (Free)](https://aws.amazon.com/getting-started/hands-on/get-started-iam/)         | Same as Developer Track                                                                                  |
+| **Amazon S3**             | [S3 Fundamentals (Free)](https://aws.amazon.com/getting-started/hands-on/backup-files-to-amazon-s3/) | [S3 for Data Lakes (Free)](https://aws.amazon.com/getting-started/hands-on/building-data-lakes/)         |
+| **AWS Lambda**            | [Lambda Getting Started (Free)](https://aws.amazon.com/getting-started/hands-on/run-serverless-code/) | [Lambda for ETL (Paid)](https://www.aws.training/Details/eLearning?id=34472)                             |
+| **AWS Glue**              | -                                                                                                 | [AWS Glue Essentials (Free)](https://aws.amazon.com/getting-started/hands-on/aws-glue-lab/)              |
+| **API Gateway**           | [API Gateway Tutorial (Free)](https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app/) | -                                                                                                        |
+| **Amazon Redshift**       | -                                                                                                 | [Redshift Fundamentals (Free)](https://aws.amazon.com/getting-started/hands-on/analyze-your-data/)       |
+| **DynamoDB**              | [DynamoDB Lab (Free)](https://aws.amazon.com/getting-started/hands-on/create-nosql-table/)        | -                                                                                                        |
+| **AWS CI/CD (CodePipeline)** | [CI/CD with AWS (Free)](https://aws.amazon.com/getting-started/hands-on/set-up-ci-cd-pipeline/)   | -                                                                                                        |
+| **Amazon EMR**            | -                                                                                                 | [EMR & Spark (Free)](https://aws.amazon.com/getting-started/hands-on/analyze-big-data/)                  |
+| **AWS Step Functions**    | [Step Functions Lab (Free)](https://aws.amazon.com/getting-started/hands-on/run-serverless-workflow-step-functions-lambda/) | Same as Developer Track                                                                                  |
+| **Amazon Kinesis**        | -                                                                                                 | [Kinesis Data Streams (Free)](https://aws.amazon.com/getting-started/hands-on/analyze-real-time-data/)   |
+| **AWS Lake Formation**    | -                                                                                                 | [Lake Formation Guide (Free)](https://aws.amazon.com/getting-started/hands-on/build-data-lake/)          |
+| **ECS/EKS**               | [ECS Workshop (Free)](https://ecsworkshop.com/)                                                   | -                                                                                                        |
+| **Amazon QuickSight**     | -                                                                                                 | [QuickSight Tutorial (Free)](https://aws.amazon.com/getting-started/hands-on/create-visualizations/)     |
+
+---
+
+### **Key Learning Platforms**  
+1. **Free Tier Hands-On Labs**: [AWS Getting Started](https://aws.amazon.com/getting-started/)  
+2. **Free Courses**: [AWS Skill Builder (Free Tier)](https://explore.skillbuilder.aws/)  
+3. **Paid Cert Prep**: [AWS Training & Certification](https://aws.amazon.com/training/)  
+4. **Advanced Labs**: [AWS Workshops](https://workshops.aws/)  
+
+---
+
+### **Suggested Learning Path**  
+1. **Start with FREE tier labs** (linked above).  
+2. **Use AWS Skill Builder** for structured courses.  
+3. **Try paid courses** (e.g., A Cloud Guru, Udemy) for certification prep.  
+
+Need **certification-specific guidance** (e.g., AWS Developer vs. Data Analytics Specialty)? Let me know! 🎯
